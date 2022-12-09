@@ -28,4 +28,4 @@ Forecasting Results:
 
 X-coordinates              | Y-coordinates   
 :-------------------------:|:-------------------------:
-![](https://github.com/sophiajwagner/particle-detection-and-prediction/blob/main/forecasting_results_xcoord.png)  |  ![](https://github.com/sophiajwagner/particle-detection-and-prediction/blob/main/forecasting_results_ycoord.png.png)
+![](https://github.com/sophiajwagner/particle-detection-and-prediction/blob/main/forecasting_results_xcoord.png)  |  ![](https://github.com/sophiajwagner/particle-detection-and-prediction/blob/main/forecasting_results_ycoord.png)
